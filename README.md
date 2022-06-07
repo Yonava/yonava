@@ -8,4 +8,4 @@
 
 <br />
 
-<img align="left" alt="Yonas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonava&layout=compact&langs_count=10"/>
+<img align="left" alt="Yonas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonava&layout=compact&langs_count=8"/>
