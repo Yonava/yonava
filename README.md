@@ -1,4 +1,4 @@
-# Hey, My Name Is Yona VA! 😃
+# Hey, My Name Is Yona! 😃
 ### - 💻 Computer Science Major at SNHU
 ### - 🛠 Working on Developing Web Applications
 ### - 📫 Email Me: yonavossandreae@gmail.com
