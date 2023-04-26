@@ -1,5 +1,5 @@
 # Hey, My Name Is Yona! 😃
-### - 💻 Computer Science Major at SNHU
+### - 💻 Computer Science Major
 ### - 🛠 Working on Developing Web Applications
 ### - 📫 Email Me: yona@vossandreae.com
 
