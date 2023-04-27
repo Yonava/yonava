@@ -1,7 +1,8 @@
 # Hey, My Name Is Yona! 😃
-### - 💻 Computer Science Major
-### - 🛠 Working on Developing Web Applications
-### - 📫 Email Me: yona@vossandreae.com
+* 💻 Computer Science Major
+* 🧑‍💻 SWE Intern @ Intellibus
+* 🛠 Working on Developing Web Applications
+* 📫 Email Me: yona@vossandreae.com
 
 <br><br>
 
