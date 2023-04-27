@@ -1,5 +1,5 @@
 # Hey, My Name Is Yona! 😃
-### 💻 Computer Science Major
+### 👨‍🎓 Computer Science Major
 ### 🧑‍💻 SWE Intern @ Intellibus
 ### 💚 Developing Web Applications (VueJS)
 ### 📫 Shoot Me an Email! yona@vossandreae.com
