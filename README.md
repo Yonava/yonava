@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 Computer Science Major @ UMass Amherst
 ### 🧑‍💻 SWE Intern @ Intellibus
-### 💚 Developing Web Applications (VueJS)
+### 💚 Favorite Framework: VueJS
 ### 📫 Shoot Me an Email! yona@vossandreae.com
 
 <br>
