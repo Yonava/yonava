@@ -1,6 +1,6 @@
 ![nametag 1](https://user-images.githubusercontent.com/76519301/234890624-813a9908-f010-4dce-88aa-c89e23be44ef.png)
 
-### 👨‍🎓 Computer Science Major
+### 👨‍🎓 Computer Science Major @ UMass Amherst
 ### 🧑‍💻 SWE Intern @ Intellibus
 ### 💚 Developing Web Applications (VueJS)
 ### 📫 Shoot Me an Email! yona@vossandreae.com
