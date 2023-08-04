@@ -8,3 +8,6 @@
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yonava&theme=dark)](https://git.io/streak-stats)
+
+![image](https://github.com/Yonava/yonava/assets/76519301/423ff85f-b057-4bda-8a92-6880cbe0160d)
+
