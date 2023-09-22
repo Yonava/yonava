@@ -3,7 +3,7 @@
 ### 👨‍🎓 Computer Science @ UMass Amherst
 ### 🧑‍💻 SWE Intern @ Intellibus
 ### 💚 Favorite Framework: VueJS
-### 📫 Shoot Me an Email: yona@vossandreae.com
+### 📫 Shoot Me an Email: yonavossandreae@gmail.com
 
 <br>
 
