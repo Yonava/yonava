@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 CS @ UMass Amherst
 ### 🧑‍💻 SWE Intern @ Tanium
-### 🛠️ SDE @ Build UMass (@build-umass)
+### 🛠️ SDE @ Build UMass
 ### 💚 Favorite Framework: VueJS
 ### 📫 Shoot Me an Email: yonavossandreae@gmail.com
 
