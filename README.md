@@ -3,7 +3,7 @@
 ### 📚 CS @ [UMass Amherst](https://www.cics.umass.edu/)
 ### 🔴 SWE Intern @ [Tanium](https://www.tanium.com/)
 ### 🛠️ SDE @ [Build UMass](https://buildumass.com/)
-### 💚 Favorite Framework: [VueJS](https://vuejs.org/)
+### 💚 Fanboy For [VueJS](https://vuejs.org/)
 ### 📫 Shoot Me an Email: yonavossandreae@gmail.com
 
 <br>
