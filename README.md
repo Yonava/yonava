@@ -1,7 +1,7 @@
 ![nametag 1](https://user-images.githubusercontent.com/76519301/234890624-813a9908-f010-4dce-88aa-c89e23be44ef.png)
 
 ### 📚 CS @ [UMass Amherst](https://www.cics.umass.edu/)
-### 🔴 Software Engineer I @ [Tanium](https://www.tanium.com/)
+### 🔴 Software Engineer @ [Tanium](https://www.tanium.com/)
 ### 🛠️ Software Developement Engineer @ [Build UMass](https://buildumass.com/)
 ### 💚 Fanboy For [VueJS](https://vuejs.org/)
 ### 📫 Shoot Me an Email: yonavossandreae@gmail.com
