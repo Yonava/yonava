@@ -3,7 +3,8 @@
 ### 📚 CS @ [UMass Amherst](https://www.cics.umass.edu/)
 ### 🔴 Software Engineer @ [Tanium](https://www.tanium.com/)
 ### 🛠️ Software Developement Engineer @ [Build UMass](https://buildumass.com/)
-### 💚 Fanboy For [VueJS](https://vuejs.org/)
+### 💚 [VueJS](https://vuejs.org/) Fanboy
+### 🟦 TS Wizard Wannabe
 ### 📫 Shoot Me an Email: yonavossandreae@gmail.com
 
 <br>
