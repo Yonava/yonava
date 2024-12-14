@@ -4,7 +4,7 @@
 ### 🔴 Software Engineer @ [Tanium](https://www.tanium.com/)
 ### 🛠️ Software Developement Engineer @ [Build UMass](https://buildumass.com/)
 ### 💚 [VueJS](https://vuejs.org/) Fanboy
-### 🟦 TS Wizard Wannabe
+### 🟦 [TS](https://www.typescriptlang.org/) Wizard Wannabe
 ### 📫 Shoot Me an Email: yonavossandreae@gmail.com
 
 <br>
