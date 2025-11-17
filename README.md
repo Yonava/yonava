@@ -1,7 +1,7 @@
 ![nametag 1](https://user-images.githubusercontent.com/76519301/234890624-813a9908-f010-4dce-88aa-c89e23be44ef.png)
 
 ### 🔴 Software Engineer @ [Tanium](https://www.tanium.com/)
-### 💚 [VueJS](https://vuejs.org/) Die Hard
+### 💚 [VueJS](https://vuejs.org/) Fan
 ### 🟦 [TypeScript](https://www.typescriptlang.org/) Wizard Wannabe
 ### 🚊 Favorite Intracity Railway Network
 ![image](https://github.com/Yonava/yonava/assets/76519301/b296c188-1490-43a4-8845-42765bf847f0)
