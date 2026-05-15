@@ -1,6 +1,6 @@
 ![nametag 1](https://user-images.githubusercontent.com/76519301/234890624-813a9908-f010-4dce-88aa-c89e23be44ef.png)
 
-### 🔴 Software Engineer II @ [Tanium](https://www.tanium.com/)
+### ⭐️ Frontend SWE
 ### 💚 [VueJS](https://vuejs.org/) Fan
 ### 🟦 [TypeScript](https://www.typescriptlang.org/) Wizard Wannabe
 ### 🚊 Favorite Intracity Railway Network
