@@ -1,7 +1,10 @@
-![nametag 1](https://user-images.githubusercontent.com/76519301/234890624-813a9908-f010-4dce-88aa-c89e23be44ef.png)
+# Welcome To My GH!
 
-### ⭐️ Frontend SWE
-### 💚 [VueJS](https://vuejs.org/) Fan
-### 🟦 [TypeScript](https://www.typescriptlang.org/) Wizard Wannabe
-### 🚊 Favorite Intracity Railway Network
-![image](https://github.com/Yonava/yonava/assets/76519301/b296c188-1490-43a4-8845-42765bf847f0)
+I am a frontend developer focused on TypeScript, DX, design systems, and static analysis tooling.
+
+## What I'm Up To
+
+* Building [Graph Kit](https://github.com/graph-kit/graph-kit/): A TypeScript-native, Framework Agnostic SDK
+* Working on [Magic Graphs](https://magicgraphs.app/): A free, interactive, CS education platform powered by Graph Kit
+* Contributing to OSS: Primarily [emoji-blast](https://github.com/JoshuaKGoldberg/emoji-blast), a fun add-on for exploding emojis and the [Flint](https://github.com/flint-fyi/flint/) linter project
+* Writing & Presenting (mostly) TypeScript-related talks. Latest: [The TypeScript I Deleted](https://docs.google.com/presentation/d/1NBg3JRdZ3RzWNUBSfNkCBkiEMtfCxDaVUYjzlgs1sts/edit?usp=sharing)
